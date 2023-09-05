@@ -1,4 +1,4 @@
-# CS_210_Project_One
+# CS 210 Project One
 ##### By: Luna Deighan
 
 ### Summarize the project and what problem it was solving.
